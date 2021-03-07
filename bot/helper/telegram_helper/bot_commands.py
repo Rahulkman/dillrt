@@ -1,23 +1,23 @@
 class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
-        self.MirrorCommand = 'mirror2'
-        self.UnzipMirrorCommand = 'unzipmirror2'
-        self.TarMirrorCommand = 'tarmirror2'
-        self.CancelMirror = 'cancel2'
-        self.CancelAllCommand = 'cancelall2'
+        self.MirrorCommand = 'mirror22'
+        self.UnzipMirrorCommand = 'unzipmirror22'
+        self.TarMirrorCommand = 'tarmirror22'
+        self.CancelMirror = 'cancel22'
+        self.CancelAllCommand = 'cancelall22'
         self.ListCommand = 'list'
-        self.StatusCommand = 'status2'
+        self.StatusCommand = 'status22'
         self.AuthorizeCommand = 'authorize'
         self.UnAuthorizeCommand = 'unauthorize'
         self.PingCommand = 'ping2'
-        self.RestartCommand = 'restart2'
-        self.StatsCommand = 'stats2'
-        self.HelpCommand = 'help2'
-        self.LogCommand = 'log2'
-        self.CloneCommand = "clone2"
-        self.WatchCommand = 'watch2'
-        self.TarWatchCommand = 'tarwatch2'
-        self.deleteCommand = 'del2'
+        self.RestartCommand = 'restart22'
+        self.StatsCommand = 'stats22'
+        self.HelpCommand = 'help22'
+        self.LogCommand = 'log22'
+        self.CloneCommand = "clone22"
+        self.WatchCommand = 'watch22'
+        self.TarWatchCommand = 'tarwatch22'
+        self.deleteCommand = 'del22'
 
 BotCommands = _BotCommands()

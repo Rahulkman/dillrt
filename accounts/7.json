@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "focal-sight-306914",
+  "private_key_id": "9b53437692c3ad474ac40e16a49f3ae96e4efde0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7HRgtVjpuYd+D\nBsHAEJo9Ynj7dFW4+WDVz5h7p8yECVzZSvF538roGL3y69umFcam1AJknnQYKLJm\nMedm1fn7GtawBfcse+zG8XHxddkdCosEY+ECb39z/mYUGZWTB9DyWX8963LmbqI3\nt3mQcx10AdqZVVrwCD4iSkAv9rML6MG0DYq6vhjbMPKwhfht1BUH3HAmW9ZaCL6A\n7cjhHuFTezLBXNsf7SkzSAdGeOZuoPAJWRcL3mBQyI6XGTQRbE/k1I5cJBrQNWvX\n7hPZbvzC6DpNC8QgYNbMQGcssi82VORTW4SRTEg1mhdOsdIX/ltvZ1/xAYymjHl5\nHAI6owlpAgMBAAECggEAEWoiS2nok0hpqISy+KCy8j6deu23YrlXAV9KVkvmNW23\npgObGNgyxsoyt46rCTiinflCZcH3lR4IiIlhe4kztGKpk4VinVHFVji3fZ0VwWWv\nTY/MK9Fbv9xv/LPq313NXRjmRkmJDphCYcQiPMbx+U+I3Fd82LUzrzZQ5gXkYRm2\nHiuoWsqrejSNnwji6y0WT1t4q3GvPMzZ+YBMiS7I31as/iLbb4/O/SlFBr4yzry0\nxdkfAFGnaf+YzVcaHZUXgMlHf4S3Odk885kSFZDuvQgy/e3b2tQC1W6Djda149ob\nZdfUwZv1Tw6teop/x0TQ1jbvICkNeGiDyWCJLV3NLwKBgQD0D42Mx2OOU7JFFwwd\nNRWaf6AWVbr9OvdBURcN8vaHj/9fGxYLVtxiCSg04nROUiMuK9NowmLMTarnxLYJ\nAgGcjH1Xbu8aZhUkm7E7/AxFW6x1UBBcD7dYZmhaRXSS+JBw+QLe/hzlXzti7tIe\ntW8qshlalplecQpVgSUjIA07YwKBgQDERGAn/ICThCgps/rrBV8p82q/jiyE0u4I\ng79kmPGY/LrKMWpmVmmV9Im0t4e1WLfy/VyDkD0dtiQk/P3aV8lXPt+mMwQok+jN\nK6iIQv7wfB3SihKatz/OCh+caDnzA1LImO+XDjvq8pMlOXNcbnmc8ERKWVRH6u1Y\nqtRpS9wPwwKBgCePadNa8oE8gdX/IWCOnTzY2RsltFSdvTxiJ4mES3+30J4a5tzZ\nrIlbkJ/Z4R5c5AT056TAdYFGSaCd2x/kqlw0zZBhk/JEf8LaVcUyWs7XSEIPw0cY\n6RA0MVAImBfGoKsfQd7hc8+eOyMTMQ33PNi/26o6ZQvQ6OrpLxrddCefAoGBALCw\nvcBB2Z70QxQIK8SZOWsS8O8yl3GcUx7nPM7bweTw4VhV1Gv9L2EInVBMSahBDpl6\n7mai2+J7r159RCvlDCW3PLDrDLtbLSJIQ5kod0sY8eAw3T7b6l0bUAoG6uSUAVsG\nE+vxrI9/gmjop6p26pUW2OP2N6HnJXXFlSSWXq7xAoGBAPGPoz5lJfsVNhuR+FPg\nceZ9kwc7LPyjz5IphReq9wlUwtEOFBqXoh/gqMucUcQkRZTuI9SPeFfXJHruncOL\n2t2mqGNWXVehes1i6yPnc6T0H/ehVdPQk6I+iXrXZeuzk3zAxfVVvVYDuTIiaZTt\nDDdCTG16Yc7l96T3xf1VD8b+\n-----END PRIVATE KEY-----\n",
+  "client_email": "techx07@focal-sight-306914.iam.gserviceaccount.com",
+  "client_id": "111436437865448305972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/techx07%40focal-sight-306914.iam.gserviceaccount.com"
+}
